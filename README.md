@@ -25,9 +25,9 @@ I am a self-motivated and hardworking Pre-Final Year Computer Science Under Grad
 [![](https://visitcount.itsvg.in/api?id=NILDARK&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Coding Platforms
-LeetCode Profile: https://leetcode.com/nildark2020/
-CodeChef Profile: https://www.codechef.com/users/nildark2020  
-HackerRank Profile: https://www.hackerrank.com/nildark2020  
-HackerEarth Profile: https://www.hackerearth.com/@nildark2020  
-CodeForces Profile: https://codeforces.com/profile/nildark2020  
+* LeetCode Profile: https://leetcode.com/nildark2020/
+* CodeChef Profile: https://www.codechef.com/users/nildark2020  
+* HackerRank Profile: https://www.hackerrank.com/nildark2020  
+* HackerEarth Profile: https://www.hackerearth.com/@nildark2020  
+* CodeForces Profile: https://codeforces.com/profile/nildark2020  
   
