@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self-motivated and hardworking Pre-Final Year Computer Science Under Grad at Pandit Deendayal Energy University, Gandhinagar. Interned at Affirmity Corp as Software Engineer Intern for 3 Months. Learner and explorer with intermediate experience in Programming, Software Development and Machine Learning. Proficient in Python Programming and Java Programming. Tally CodeBrewers 2022 Finalist.<br>NCAT 2022 - AIR 12 Rank Holder.
+I am a self-motivated and hardworking Computer Science Graduate from Pandit Deendayal Energy University, Gandhinagar. Interned at Flexmoney, TallySolutions as SDE Intern. Learner and explorer with intermediate experience in Programming, Software Development and Machine Learning. Proficient in Python Programming and Java Programming. Tally CodeBrewers 2022 Finalist.<br>NCAT 2022 - AIR 12 Rank Holder.
 
 
 ## 🌐 Socials:
